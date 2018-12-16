@@ -4,5 +4,4 @@ spring:
   cloud:
     config:
       server:
-        git: null
       uri: C:\Users\Public\Projekte\oxygen-workspace-q4-2017\bipro-ws-config-server
